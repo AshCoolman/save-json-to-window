@@ -1,13 +1,13 @@
 {
   "name": "save-json-to-window",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Taks an object, and creates a js file that saves it to window",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/index.js"
   },
   "keywords": [],
   "author": "Ashley Coleman <writetofish@gmail.com> (http://ashcoolman.com)",

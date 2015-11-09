@@ -1,7 +1,7 @@
 {
   "name": "save-json-to-window",
   "version": "1.0.0",
-  "description": "Taks an object, and creates a js file that saves it to window",
+  "description": "Takes an object, and creates a js file that saves it to window",
   "main": "src/index.js",
   "directories": {
     "test": "test"
